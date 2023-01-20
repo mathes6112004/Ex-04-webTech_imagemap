@@ -105,10 +105,10 @@ Now run the server. It will give the selected map and details of the marked plac
 ![Rect Mark place in Map](./img/map.jpeg)
 
 ### place around me trichy airport:
-![place around me trichy airport](./img/ap.jpg)
+![place around me trichy airport](./img/apot1.png)
 
 ### Trichy airport
-![Trichy airport](./img/ap2.jpg)
+![Trichy airport](./img/apot2.png)
 
 
 # Result:
