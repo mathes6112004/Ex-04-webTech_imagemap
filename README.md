@@ -108,7 +108,8 @@ Now run the server. It will give the selected map and details of the marked plac
 
 ![place around me trichy airport](./img2/apot1.png)
 
-
+### Trichy airport:
+![Trichy airport](./img2/apot2.png)
 
 
 # Result:
