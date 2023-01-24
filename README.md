@@ -113,4 +113,4 @@ Now run the server. It will give the selected map and details of the marked plac
 
 
 # Result:
-
+ Finally Expected result is shown. All the details were mark in map.
